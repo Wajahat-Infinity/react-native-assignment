@@ -11,10 +11,7 @@ Q1. Create a Tab Navigation in React Native and create a minimum of 4 screens. O
 Note: You can take any design example from the internet.
 
 #ScreenShot of interfaces
-![image](https://github.com/Wajahat-Infinity/labMid/assets/106984752/a060ce74-ee23-4f79-b4eb-df3dc06d8bdd)
-![image](https://github.com/Wajahat-Infinity/labMid/assets/106984752/fb69efce-39ee-4b45-9dcd-f1cd440d1bd4)
-![image](https://github.com/Wajahat-Infinity/labMid/assets/106984752/cba92213-b3e9-4aeb-afdc-6ee917dbee6b)
-![Uploading image.png…]()
+screenshot zip file uploaded
 
 #Techonologies and tools are
 js
